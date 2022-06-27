@@ -11,6 +11,12 @@
   </tr>
   </table>
 
+<table>
+  <tr>
+    <td valign="center">
+    
+    
+  
 #### Tools
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -54,7 +60,9 @@
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
-
+</tr>
+  </table>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkplonker&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
