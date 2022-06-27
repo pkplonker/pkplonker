@@ -69,3 +69,16 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkplonker&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pkplonker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkplonker" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/stuartheath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartheath1" height="30" width="40" /></a>
+<a href="https://instagram.com/stuarttheath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuarttheath" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkplonker&show_icons=true&locale=en&layout=compact" alt="pkplonker" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkplonker&show_icons=true&locale=en" alt="pkplonker" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkplonker&" alt="pkplonker" /></p>
+
