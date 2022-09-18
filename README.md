@@ -75,5 +75,7 @@
 <a href="https://twitter.com/pkplonker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pkplonker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stuartheath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stuartheath1" height="30" width="40" /></a>
 <a href="https://instagram.com/stuarttheath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuarttheath" height="30" width="40" /></a>
+<a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/itchio-logo-textless-black.png" alt="stuarttheath" height="30" width="40" /></a>
+<a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/itchio-logo-textless-black.svg" alt="stuarttheath" height="30" width="40" /></a>
 </p>
 
