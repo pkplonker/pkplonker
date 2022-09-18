@@ -77,5 +77,7 @@
 <a href="https://instagram.com/stuarttheath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stuarttheath" height="30" width="40" /></a>
 <a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/itchio-logo-textless-black.png" alt="stuarttheath" height="30" width="40" /></a>
 <a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/itchio-logo-textless-black.svg" alt="stuarttheath" height="30" width="40" /></a>
+  <a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/app-icon.png" alt="stuarttheath" height="30" width="40" /></a>
+<a href="https://stuartheath.itch.io/" target="blank"><img align="center" src="https://pkplonker.github.io/images/app-icon.svg" alt="stuarttheath" height="30" width="40" /></a>
 </p>
 
