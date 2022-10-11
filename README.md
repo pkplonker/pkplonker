@@ -4,10 +4,11 @@
 <table>
   <tr>
     <td valign="center">
-     - I am currently pursuing my Bachelor's in Games Technology.
-     - I am currently learning C#, C++.
-     - Former Automotive electrical engineering lead.
-    
+      <ul>
+      <li> I am currently pursuing my Bachelor's in Games Technology. </li>
+     <li> I am currently learning C#, C++. </li>
+     <li> Former Automotive electrical engineering lead. </li>
+     </ul>
   </tr>
   </table>
 
