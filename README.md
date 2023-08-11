@@ -68,7 +68,7 @@
 ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pkplonker&theme=blue-green)
 
 </tr>
   </table>
